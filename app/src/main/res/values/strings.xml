@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Ally</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_element_selection">ElementSelectionActivity</string>
+    <string name="title_activity_add_password">AddPassword</string>
+    <string name="title_activity_add_public_note">AddPublicNote</string>
+    <string name="title_activity_add_private_note">AddPrivateNote</string>
+    <string name="title_activity_fiddle_with_files">FiddleWithFiles</string>
+    <string name="password">password</string>
+    <string name="title_activity_set_master_password">SetMasterPassword</string>
+    <string name="title_activity_password_check">passwordCheck</string>
+    <string name="title_activity_rename_file">RenameFile</string>
+</resources>
